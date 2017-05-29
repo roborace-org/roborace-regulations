@@ -1,1 +1,1 @@
-# Roborace Reglament
+# Roborace Rules & Regulations
