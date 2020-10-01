@@ -8,6 +8,10 @@
 ```
 pip install grip
 ```
+или
+```
+sudo apt install grip
+```
 
 2. Генерация pdf
 ```
