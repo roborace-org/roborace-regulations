@@ -1,8 +1,8 @@
 # Roborace Rules & Regulations
 
-[Правила соревнований](https://github.com/roborace-org/roborace-regulations/tree/master/ru)
+[Правила соревнований](https://github.com/roborace-org/roborace-regulations/tree/master/ru/Содержание.md)
 
-# Генерация регламента в pdf
+## Генерация регламента в pdf
 
 1. Установка grip
 ```
